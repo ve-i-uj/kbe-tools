@@ -40,4 +40,6 @@ Aleksei Burov [burov_alexey@mail.ru](https://github.com/ve-i-uj)
 
 Project Link: [https://github.com/ve-i-uj/kbe-tools](https://github.com/ve-i-uj/kbe-tools)
 
+Origin Project Link (chinese localization): [https://github.com/jiangjiali/entity_tool](https://github.com/jiangjiali/entity_tool)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
